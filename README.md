@@ -100,8 +100,3 @@ This repo is beginner-friendly and can be used as a reference to **learn Android
 ## 💬 Connect
 If you’re learning Android too, feel free to connect, contribute, or share suggestions!  
 
----
-
-## 🔰 Repo Description (for GitHub About section)
-**30 Days Android App Dev Challenge (Kotlin) | Complete Daily Tasks + Mini Projects + Concept Notes**  
-A beginner-friendly, step-by-step Kotlin Android development journey including assignments, notes, and working apps demonstrating RecyclerView, Fragments, Intents, Navigation Drawer, SQLite, Dialogs, Notifications, and more.
